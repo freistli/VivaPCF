@@ -1,13 +1,14 @@
 # PCF Demo which Hosts a Viva Insignts Web Interface in iframe
 
-<img width="1200" alt="image" src="https://github.com/freistli/VivaPCF/assets/8623897/876889cb-47b0-4950-b77e-07e496d75ab5">
+![image](https://github.com/freistli/VivaPCF/assets/8623897/5ed21c6a-f050-4759-aed3-1f51ef459ac4)
+
 
 ## CSS Style:
-[VivaPCF/css at main · freistli/VivaPCF (github.com)](https://github.com/freistli/VivaPCF/tree/main/css)
+https://github.com/freistli/VivaPCF/tree/main/LinearInputControl/css
 
 ## iframe related code:
-[VivaPCF/index.ts at main · freistli/VivaPCF · GitHub](https://github.com/freistli/VivaPCF/blob/main/index.ts#L49)
+https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/index.ts#L49
 
 ## Unmanaged Solution demo zip:
-[VivaPCF/generated at main · freistli/VivaPCF · GitHub](https://github.com/freistli/VivaPCF/tree/main/generated)
+https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/Solutions/Solutions_1_2.zip
 
