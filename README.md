@@ -12,5 +12,5 @@ https://github.com/freistli/VivaPCF/tree/main/LinearInputControl/css
 https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/index.ts#L49
 
 ## Unmanaged Solution demo zip:
-https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/Solutions/Solutions_1_2.zip
+https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/Solutions/Solutions_1_7.zip
 
