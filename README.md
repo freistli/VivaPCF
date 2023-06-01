@@ -6,11 +6,11 @@ This demo is created base on this [official PCF sample structure](https://learn.
 
 
 ## CSS Style:
-https://github.com/freistli/VivaPCF/tree/main/LinearInputControl/css
+https://github.com/freistli/VivaPCF/tree/phoneapp/LinearInputControl/css
 
 ## iframe related code:
-https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/index.ts#L49
+https://github.com/freistli/VivaPCF/blob/phoneapp/LinearInputControl/index.ts#L49
 
 ## Unmanaged Solution demo zip:
-https://github.com/freistli/VivaPCF/blob/main/LinearInputControl/Solutions/Solutions_1_7.zip
+https://github.com/freistli/VivaPCF/blob/phoneapp/LinearInputControl/Solutions/Solutions_1_7.zip
 
